@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 Hola mundo!
 Chau mundo!
+=======
+Hola mundo! Cómo les va??
+
+
+
+
+
+
+
+
+
+Voy creando conflictos con todas las ganas! jajajaja
+Hola mundo! Feliz de saludarles
+Estoy rompiendo todoooooo
+
+>>>>>>> 501d36c9f16dd5c8b414b7ebcf6ab95b08f634d6
